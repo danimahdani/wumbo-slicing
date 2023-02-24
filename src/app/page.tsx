@@ -1,3 +1,4 @@
+import "@/styles/globals.css";
 import Rectangle from "../images/Rectangle.svg";
 import { FiDownload } from "react-icons/fi";
 import { BiPlayCircle } from "react-icons/bi";
